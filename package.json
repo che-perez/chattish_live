@@ -1,0 +1,22 @@
+{
+  "name": "chattish_live",
+  "version": "1.0.0",
+  "description": "Deployement for Chattish",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/che-perez/chattish_live.git"
+  },
+  "author": "Josue Perez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/che-perez/chattish_live/issues"
+  },
+  "homepage": "https://github.com/che-perez/chattish_live#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
